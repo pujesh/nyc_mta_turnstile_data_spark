@@ -1,8 +1,5 @@
 # nyc_mta_turnstile_data_spark
 Spark project to analyze NYC MTA Turnstile Data
-
-Perfect 👌 Let’s make it feel like a real **take-home assignment prompt**—something you might actually get in a data engineer interview or test project. You can use this word-for-word as your practice scenario.
-
 ---
 
 # 📂 Take-Home Assignment: NYC Subway Ridership Analysis with Spark
@@ -87,9 +84,3 @@ To answer this, you should:
   * (Optional) `/output`: Processed data or plots
 
 ---
-
-✅ This setup mimics what real companies expect: *data wrangling + Spark skills + storytelling from data.*
-
----
-
-Do you want me to also **draft a sample README outline** (like the one you’d put on GitHub after finishing this project) so you’ll know exactly how to present it in a portfolio?
